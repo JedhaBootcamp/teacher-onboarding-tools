@@ -118,17 +118,9 @@ Module (M0x)
 
 Comme indiqué dans l'architecture ci-dessus, le dossier le plus important est celui nommé **03-Instructors** car il contient beaucoup d'éléments qui te seront très importants pour un bon enseignement.
 
-1. Les slides
-
-Qui te seront utiles afin de présenter les concepts que tu vas enseigner.
-
-2. Les notes de cours
-
-Elles te permettront de pouvoir mettre un timing sur les cours données.
-
-3. Slack
-
-Ce message est à envoyé à chaque fin de journée d'enseignement.
+1. Les slides : Qui te seront utiles afin de présenter les concepts que tu vas enseigner.
+2. Les notes de cours : Elles te permettront de pouvoir mettre un timing sur les cours données.
+3. Slack Message : Ce message est à envoyé à chaque fin de journée d'enseignement.
 
 ## <a href="https://app.julie.academy/">JULIE</a>
 
