@@ -12,7 +12,8 @@ La première des choses à faire est d'envoyer un message de présentation sur l
 
 Voici un modèle de message :
 
-"Hello @canal,
+```
+Hello @canal,
 Je suis `X`, travaillant en tant que `X` chez `X` et je suis très heureux de vous avoir en tant que professeur pour votre formation Data Essentials !
 Afin de bien démarrer votre premier jour, vous pouvez d'ores et déjà :
 * Installer Tableau sur votre poste via ce lien - https://public.tableau.com
@@ -20,7 +21,8 @@ Afin de bien démarrer votre premier jour, vous pouvez d'ores et déjà :
 Aussi pour ceux qui viennent en présentiel, l'adresse de la formation est le : 13 Rue du Pont aux Choux 75003, Paris.
 Code d'accès : 32A16 puis fond de cour à gauche.
 
-Des membres de l'équipe Jedha seront là pour vous accueillir :)"
+Des membres de l'équipe Jedha seront là pour vous accueillir :)
+```
 
 # 2. ZOOM
 
