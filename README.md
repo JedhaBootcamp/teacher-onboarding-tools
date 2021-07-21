@@ -45,6 +45,7 @@ La première fois que tu feras la commande `/zoom meeting` tu devras autoriser Z
 
 Une fois que le ZOOM est lancé, il faut lancer le record, voir le GIF ci-dessous :
 
+
 ![record zoom cloud](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif)
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif"/>
 
