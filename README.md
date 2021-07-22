@@ -191,7 +191,9 @@ Voici une catégorie qui te sera utile pour ton enseignement. Toutes les notes d
 ## M03.D01-Introduction to python and statistics
 
 Pour la matinée de 10:00 à 12:30
+
 Pour l'après-midi 13:30 à 16:00
+
 Synthèse du cours
 
 ## M03.D02-AB Testing and web analytics
