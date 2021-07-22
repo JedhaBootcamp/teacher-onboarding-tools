@@ -1,8 +1,20 @@
+- [Essentials teacher's onboarding](#essentials-teacher-s-onboarding)
+- [French](#french)
+- [ZOOM](#zoom)
+ - [Explications et téléchargement](#explications-et-téléchargement)
+ - [Lancement du ZOOM](#lancement-du-zoom)
+ - [Record](#record)
+ - [Création de breakout rooms](#création-de-breakout-rooms)
+ - [Icebreaking](#icebreaking)
+- [Déroulement d'une journée type](#Déroulement-d-une-journée-type)
+
 # Essentials teacher's onboarding
 
 Ce repository contient toutes les informations concernant la session que tu vas encadrer.
 
 # French
+
+
 
 # ZOOM
 
@@ -29,7 +41,7 @@ Une fois que le ZOOM est lancé, il faut lancer le record, voir le GIF ci-dessou
 ![record zoom to the cloud](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif)
 
 
-## Creation de breakout rooms
+## Création de breakout rooms
 
 Pour la partie exercice, il est important de créer des salles de travail. C'est pourquoi dans l'outil ZOOM il y a la possibilité de diviser la réunion en plusieurs groupes. Je t'invite à suivre le GIF ci-dessous afin de les créer. Ton rôle principal est de passé dans les toutes les breakouts afin de donner des tips à tout le monde. Cela permet également de faire les choses suivantes :
 
