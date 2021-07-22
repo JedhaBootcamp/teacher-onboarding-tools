@@ -139,7 +139,7 @@ Tu devrais avoir accès au channel de la session sur laquelle tu enseigne `#ds-{
 
 C'est la plateforme sur laquelle tu enseigneras le SQL. Pour ce faire tu as été invité à rejoindre notre instance. Tu peux tester en effectuant les commandes suivantes :
 
-1. Allez sur ce <a href="https://bit.ly/2svkxll">lien"
+1. Allez sur ce <a href="https://bit.ly/2svkxll">lien</a>
 2. Tu devrais voir le projet _introduction-SQL_ en haut
 3. Ouvrir la console et tape `gcloud sql connect introductionsql --user=root` avec le password : **jedha4ever**
 
