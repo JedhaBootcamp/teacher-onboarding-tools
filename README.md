@@ -222,6 +222,6 @@ Synthèse du cours
 
 ## M05.D01-Project
 
-<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M05-Projects/D01-Project/03-Instructors/01-Course_Notes_Projects_presentation.md">Pour la matinée de 10:00 à 16:00</a>
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M05-Projects/D01-Project/03-Instructors/01-Course_Notes_Projects_presentation.md">Pour la journée 10:00 à 16:00</a>
 
 <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M05-Projects/D01-Project/03-Instructors/02-Slack_message.md">Synthèse du cours</a>
