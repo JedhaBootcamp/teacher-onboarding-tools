@@ -92,29 +92,6 @@ La structuration est la suivante :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_repo_github.png"/>
 
-Module (M0x)
-|
-|- Journée d'enseigement (D0x)
-  |
-  |- 00-Lectures
-    |- Cours visible sur la plateforme JULIE par les élèves
-  |  
-  |- 01-Exercises
-    |- Exercice en lien avec le cours
-  |
-  |- 02-Project
-    |- Dans le cadre des Essentials ce dossier est <ins>vide</ins>
-  |
-  |- 03-Instructors **IMPORTANT**
-    |
-    |-00-Lectures
-      |- Tu pourras retrouver les Slides, les notes de cours ainsi que le template de message Slack [03-Slack_message]
-    |
-    |- 01-Solutions
-      |- Solutions des exercices du dossier [01-Exercises]
-    |  
-    |- 02-Project_solutions
-      |- Dans le cadre des Essentials ce dossier est <ins>vide</ins>
 
 Comme indiqué dans l'architecture ci-dessus, le dossier le plus important est celui nommé **03-Instructors** car il contient beaucoup d'éléments qui te seront très importants pour un bon enseignement.
 
@@ -161,15 +138,6 @@ Comment est structuré le drive? Restons sur l'exemple de la ds-paris-00 :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_google_drive.png"/>
 
-|Google Drive
-|ds-paris-00
- |
- |- ### Students ###
-   |
-   |- Student1, Student2, ...
-   |- ### Solutions ###
- |
- |- Fiche contact (contact.xlsx)
 
 Les solutions devront être déposées dans le Drive en fin de journée afin que les élèves puissent y avoir accès.
 
