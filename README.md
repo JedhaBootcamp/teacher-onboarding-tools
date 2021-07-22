@@ -4,27 +4,7 @@ Ce repository contient toutes les informations concernant la session que tu vas 
 
 # French
 
-# Pour la première journée
-
-## 1. First thing first
-
-La première des choses à faire est d'envoyer un message de présentation sur le channel Slack de ta session. Si tu n'y a pas accès tu peux envoyer un mail au PM du campus (le contact qui t'a envoyé le mail dans lequel se trouvait le lien de ce Github Page). 
-
-Voici un modèle de message :
-
-```
-Hello @canal,
-Je suis `X`, travaillant en tant que `X` chez `X` et je suis très heureux de vous avoir en tant que professeur pour votre formation Data Essentials !
-Afin de bien démarrer votre premier jour, vous pouvez d'ores et déjà :
-* Installer Tableau sur votre poste via ce lien - https://public.tableau.com
-* Vérifiez que vous ayiez bien accès à JULIE (https://app.julie.academy/) aussi, qui est notre plateforme sur laquelle vous aurez tout vos contenus de cours.
-Aussi pour ceux qui viennent en présentiel, l'adresse de la formation est le : 13 Rue du Pont aux Choux 75003, Paris.
-Code d'accès : 32A16 puis fond de cour à gauche.
-
-Des membres de l'équipe Jedha seront là pour vous accueillir :)
-```
-
-# 2. ZOOM
+# ZOOM
 
 ## Explications et téléchargement
 
@@ -39,15 +19,25 @@ Une fois téléchargé il faudra le lancer sur Slack. Pour ce faire il faudra al
 Pour exemple je prendrai la première journée que l'on enseigne sur la ds-paris-00 : `/zoom meeting ds-paris-00_M01_D01_Data-Visualisation`
 
 **ATTENTION**
-La première fois que tu feras la commande `/zoom meeting` tu devras autoriser ZOOM à accéder à Slack.
+La première fois que tu feras la commande `/zoom meeting` tu devras <ins>autoriser ZOOM à accéder à Slack</ins>.
 
 ## Record
 
 Une fois que le ZOOM est lancé, il faut lancer le record, voir le GIF ci-dessous :
 
 
-![record zoom cloud](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif)
-<img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif"/>
+![record zoom to the cloud](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/record_zoom_cloud.gif)
+
+
+## Creation de breakout rooms
+
+Pour la partie exercice, il est important de créer des salles de travail. C'est pourquoi dans l'outil ZOOM il y a la possibilité de diviser la réunion en plusieurs groupes. Je t'invite à suivre le GIF ci-dessous afin de les créer. Ton rôle principal est de passé dans les toutes les breakouts afin de donner des tips à tout le monde. Cela permet également de faire les choses suivantes :
+
+1. Créer de l'intéraction entre élèves
+2. Mettre du dynamisme d'un point de vue professeur sur la partie **pratique**
+3. Permet d'avancer plus vite sur les exercices pour les élèves
+
+![Zoom Breakout Rooms](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/zoom_breakout.gif)
 
 ## Icebreaking
 
@@ -69,16 +59,16 @@ Un exemple :
 3. :brain: A fait l'armée
 ```
 
-Tu l'auras compris, les élèves doivent donc trouver la réponse fausse, dans ce cas la 1.
+Tu l'auras compris, les élèves doivent donc trouver <ins>la réponse fausse</ins>, dans ce cas la 1.
 
 Le but est de délier les langues et faire preuve de créativité. Cela permet d'avoir une session soudée dès le début.
 
-# 3. Explication des outils et du bootcamp
+# Explication des outils et du bootcamp
 
 À la suite de l'icebreaking, l'encadrant pédagogique de Jedha va dérouler quelques slides afin d'expliquer les outils ainsi que le déroulement général du bootcamp. Cela te permettra de ne pas être dérangé durant ton cours si un élève n'a pas accès la ressource
 
 ## Feuille de présence
-Tu as dû recevoir tes credentials via un mail d'Edusign. Cela permet d'envoyer les feuilles de présence. Voici un exemple de comment faire pour les envoyer.
+Tu as dû recevoir tes credentials via <ins>un mail d'Edusign</ins>. Cela permet d'envoyer les feuilles de présence. Voici un exemple de comment faire pour les envoyer.
 
 Dans un premier temps rendez-vous sur <a href="https://edusign.app/">EduSign</a> puis tu pourras suivre ce GIF :
 
@@ -91,7 +81,6 @@ Tu pourras retrouver toutes les ressources de cours sur Github. Slides, note de 
 La structuration est la suivante :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_repo_github.png"/>
-
 
 Comme indiqué dans l'architecture ci-dessus, le dossier le plus important est celui nommé **03-Instructors** car il contient beaucoup d'éléments qui te seront très importants pour un bon enseignement.
 
@@ -116,7 +105,7 @@ Une fois connecté sur JULIE, tu peux retrouver les cours via ce chemin _Courses
 
 ### Workspace
 
-Oui JULIE possède un workspace intégré. C'est sur ce jupyter lab que tu feras pratiquer les élèves sur la partie Python et Machine Learning (module 3 et 4).
+Oui JULIE possède un workspace intégré. C'est sur ce Jupyter Lab que tu feras pratiquer les élèves sur la partie Python et Machine Learning (module 3 et 4).
 
 Pour lancer une machine voici des GIFs explicatifs :
 
@@ -128,7 +117,7 @@ Utilisation de la machine créée :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/workspace_2.gif"/>
 
-**Important** les workspaces sont tout le temps sauvegardé. C'est important de le préciser aux élèves pour ne pas qu'ils craignent de perdre quoi que ce soit. **Si jamais** on venait à cleaner des machines ou des données, les personnes concernées seraient prévenues 1 semaine à l'avance afin de tout télécharger en local.
+**Important** les workspaces sont tout le temps sauvegardés. C'est important de le préciser aux élèves pour ne pas qu'ils craignent de perdre quoi que ce soit. **Si jamais** nous venions à cleaner des machines ou des données, les personnes concernées seraient prévenues 1 semaine à l'avance afin de tout télécharger en local.
 
 ## Google Drive
 
@@ -138,8 +127,7 @@ Comment est structuré le drive? Restons sur l'exemple de la ds-paris-00 :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_google_drive.png"/>
 
-
-Les solutions devront être déposées dans le Drive en fin de journée afin que les élèves puissent y avoir accès.
+Les solutions devront être déposées dans le Drive dans le dossier **### Solutions ###** en fin de cours afin que les élèves puissent y avoir accès.
 
 ## Slack
 
@@ -149,7 +137,11 @@ Tu devrais avoir accès au channel de la session sur laquelle tu enseigne `#ds-{
 
 ## Google Cloud Platform
 
-SQL
+C'est la plateforme sur laquelle tu enseigneras le SQL. Pour ce faire tu as été invité à rejoindre notre instance. Tu peux tester en effectuant les commandes suivantes :
+
+1. Allez sur ce <a href="https://bit.ly/2svkxll">lien"
+2. Tu devrais voir le projet _introduction-SQL_ en haut
+3. Ouvrir la console et tape `gcloud sql connect introductionsql --user=root` avec le password : **jedha4ever**
 
 # Déroulement d'une journée type
 
@@ -164,4 +156,70 @@ SQL
 9. 18:00 : Envoie de la synthèse du jour
 10. 18:30 : Dépôt des solutions dans le Google Drive
 
+# Pour la première journée
 
+Je t'invite à te reférencer à <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/01a-Teachers_notes.ipynb">la première note de cours professeur</a> qui te donnera toutes les informations nécessaire pour le bon déroulement de la session
+
+# Les notes de cours professeurs par journée d'enseignement
+
+Voici une catégorie qui te sera utile pour ton enseignement. Toutes les notes de cours sont repertoriées par journée de cours.
+
+## M01.D01-Data Visualisation
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/01a-Teachers_notes.ipynb">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/01b-Teachers_notes.ipynb">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/03-Slack_message.md">Synthèse du cours</a>
+
+## M02.D01-Introduction to SQL and cloud computing
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D01-Introduction_to_SQL_and_cloud_computing/03-Instructors/00-Lectures/01-Notes%20professeurs_Introduction_to_SQL_part_A.md">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D01-Introduction_to_SQL_and_cloud_computing/03-Instructors/00-Lectures/02-Notes%20professeurs_Introduction_to_SQL_part_B.md">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D01-Introduction_to_SQL_and_cloud_computing/03-Instructors/00-Lectures/03-Slack_messages.md">Synthèse du cours</a>
+
+## M02.D02-Advanced SQL
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D02-Advanced_SQL/03-Instructors/00-Lectures/01-Notes_professeurs_Advanced_SQL_Part_A.md">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D02-Advanced_SQL/03-Instructors/00-Lectures/02-Notes_professeurs_Advanced_SQL_Part_B.md">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M02-SQL/D02-Advanced_SQL/03-Instructors/00-Lectures/03-Slack_message.md">Synthèse du cours</a>
+
+## M03.D01-Introduction to python and statistics
+
+Pour la matinée de 10:00 à 12:30
+Pour l'après-midi 13:30 à 16:00
+Synthèse du cours
+
+## M03.D02-AB Testing and web analytics
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M03-Python_programming_and_statistics/D02-A_B_testing_and_web_analytics/03-Instructors/00-Lectures/01-Course_Notes_Estimates_and_Sampling.md">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M03-Python_programming_and_statistics/D02-A_B_testing_and_web_analytics/03-Instructors/00-Lectures/02-Course_Notes_AB_Testing.md">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M03-Python_programming_and_statistics/D02-A_B_testing_and_web_analytics/03-Instructors/00-Lectures/03-Slack_message.md">Synthèse du cours</a>
+
+## M04.D01-Machine Learning Regressions
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D01-Machine_learning_regressions/03-Instructors/00-Lectures/01-Course_Notes_Introduction_to_Machine_Learning.md">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D01-Machine_learning_regressions/03-Instructors/00-Lectures/02-Course_Notes_Regressions_Models.md">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D01-Machine_learning_regressions/03-Instructors/00-Lectures/03-Slack_message.md">Synthèse du cours</a>
+
+## M04.D02-Machine Learning Classifications
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D02-Machine_learning_classifications/03-Instructors/00-Lectures/01-Course_Notes_Machine_Learning_Models.md">Pour la matinée de 10:00 à 12:30</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D02-Machine_learning_classifications/03-Instructors/00-Lectures/02-Course_Notes_Decision_Trees.md">Pour l'après-midi de 13:30 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M04-Machine_learning/D02-Machine_learning_classifications/03-Instructors/00-Lectures/03-Slack_messages.md">Synthèse du cours</a>
+
+## M05.D01-Project
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M05-Projects/D01-Project/03-Instructors/01-Course_Notes_Projects_presentation.md">Pour la matinée de 10:00 à 16:00</a>
+
+<a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M05-Projects/D01-Project/03-Instructors/02-Slack_message.md">Synthèse du cours</a>
