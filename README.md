@@ -105,7 +105,7 @@ Dans un premier temps rendez-vous sur <a href="https://edusign.app/">EduSign</a>
 
 Tu pourras retrouver toutes les ressources de cours sur Github. Slides, note de cours, note de professeurs, solutions des exercices, cours, etc...
 
-La structuration est la suivante :
+L'architecture est la suivante :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_repo_github.png"/>
 
@@ -126,7 +126,7 @@ Voici la procédure pour avoir ton mot de passe si tu ne t'es jamais connecté �
 1. Aller sur le site <a href="http://app.julie.academy/">JULIE</a>
 2. Clique sur _Forget your password?_
 3. Suivre la procédure de réinitialisation reçue par mail
-4. Se connecter avec le mot de passe crée
+4. Se connecter avec le mot de passe créé
 
 Une fois connecté sur JULIE, tu peux retrouver les cours via ce chemin _Courses > Data Dregrees > Essentials_. Tu remarqueras que l'architecture qu'il y a présente dans la section <ins>Github</ins> est la même dans JULIE sans le dossier _03-Instructors_
 
@@ -154,7 +154,7 @@ Comment est structuré le drive? Restons sur l'exemple de la ds-paris-00 :
 
 <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/architecture_google_drive.png"/>
 
-Les solutions devront être déposées dans le Drive dans le dossier **### Solutions ###** en fin de cours afin que les élèves puissent y avoir accès.
+Les solutions devront être déposées dans le Drive dans le dossier **### Solutions ###** en fin de cours afin de permettre aux élèves d'y accéder.
 
 ## Slack
 
@@ -167,8 +167,9 @@ Tu devrais avoir accès au channel de la session sur laquelle tu enseigne `#ds-{
 C'est la plateforme sur laquelle tu enseigneras le SQL. Pour ce faire tu as été invité à rejoindre notre instance. Tu peux tester en effectuant les commandes suivantes :
 
 1. Allez sur ce <a href="https://bit.ly/2svkxll">lien</a>
-2. Tu devrais voir le projet _introduction-SQL_ en haut
-3. Ouvrir la console et tape `gcloud sql connect introductionsql --user=root` avec le password : **jedha4ever**
+2. Vérifies que tu es bien connecté avec ton adresse Gmail
+3. Tu devrais voir le projet _introduction-SQL_ en haut
+4. Ouvrir la console et tape `gcloud sql connect introductionsql --user=root` avec le password : **jedha4ever**
 
 # Déroulement d'une journée type
 
@@ -185,7 +186,7 @@ C'est la plateforme sur laquelle tu enseigneras le SQL. Pour ce faire tu as ét�
 
 # Pour la première journée
 
-Je t'invite à te reférencer à <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/01a-Teachers_notes.ipynb">la première note de cours professeur</a> qui te donnera toutes les informations nécessaire pour le bon déroulement de la session
+Je t'invite à te référer à <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/03-Instructors/00-Lectures/01a-Teachers_notes.ipynb">la première note de cours professeur</a> qui te donnera toutes les informations nécessaires pour le bon déroulement de la session
 
 # Les notes de cours professeurs par journée d'enseignement
 
