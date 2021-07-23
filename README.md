@@ -1,20 +1,35 @@
-- [Essentials teacher's onboarding](#essentials-teacher-s-onboarding)
-- [French](#french)
-- [ZOOM](#zoom)
- - [Explications et téléchargement](#explications-et-téléchargement)
- - [Lancement du ZOOM](#lancement-du-zoom)
- - [Record](#record)
- - [Création de breakout rooms](#création-de-breakout-rooms)
- - [Icebreaking](#icebreaking)
-- [Déroulement d'une journée type](#Déroulement-d-une-journée-type)
 
-# Essentials teacher's onboarding
+- [Onboarding pour professeur Essentials](#onboarding-pour-professeur-essentials)
+- [ZOOM](#zoom)
+     - [Explications et téléchargement](#explications-et-telechargement)
+     - [Lancement du ZOOM](#lancement-du-zoom)
+     - [Record](#record)
+     - [Création de breakout rooms](#création-de-breakout-rooms)
+- [Icebreaking](#icebreaking)
+- [Explications des outils du bootcamp](#explications-des-outils-du-bootcamp)
+     - [Feuille de présence](#feuille-de-présence)
+     - [Github](#github)
+     - [JULIE](#julie)
+         - [Connexion & cours](#connexion-et-cours)
+         - [Workspace](#workspace)
+     - [Google Drive](#google-drive)
+     - [Slack](#slack)
+     - [Google Cloud Platform](#google-cloud-platform) 
+- [Déroulement d'une journée type](#Déroulement-d-une-journee-type)
+- [Pour la première journée](#Pour-la-premiere-journee)
+- [Les notes de cours professeurs par journée d'enseignement](#les-notes-de-cours-professeurs-par-journee-d-enseignement)
+     - [M01.D01-Data Visualisation](#data-visualisation)
+     - [M02.D01-Introduction to SQL and cloud computing](#introduction-to-sql-and-cloud-computing)
+     - [M02.D02-Advanced SQL](#advanced-sql)
+     - [M03.D01-Introduction to python and statistics](#introduction-to-python-and-statistics)
+     - [M03.D02-AB Testing and web analytics](#ab-testing-and-web-analytics)
+     - [M04.D01-Machine Learning Regressions](#machine-learning-regressions)
+     - [M04.D02-Machine Learning Classifications](#machine-learning-classifications)
+     - [M05.D01-Project](#project)
+
+# Onboarding pour professeur Essentials
 
 Ce repository contient toutes les informations concernant la session que tu vas encadrer.
-
-# French
-
-
 
 # ZOOM
 
@@ -51,7 +66,7 @@ Pour la partie exercice, il est important de créer des salles de travail. C'est
 
 ![Zoom Breakout Rooms](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/zoom_breakout.gif)
 
-## Icebreaking
+# Icebreaking
 
 Le principe est simple, nous allons faire un jeu en introduction afin de "briser la glace" (pas de panique tu seras encadré par quelqu'un de l'équipe afin que cela se déroulé au mieux). Le jeu est 2 vérités, et 1 mensonge. Pour ce faire voici un template de message, à copier-coller sur Slack, qui permettra aux étudiants de voter sur Slack :
 
