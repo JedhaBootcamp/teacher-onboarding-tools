@@ -15,9 +15,9 @@
      - [Google Drive](#google-drive)
      - [Slack](#slack)
      - [Google Cloud Platform](#google-cloud-platform) 
-- [Déroulement d'une journée type](#Déroulement-d-une-journee-type)
-- [Pour la première journée](#Pour-la-premiere-journee)
-- [Les notes de cours professeurs par journée d'enseignement](#les-notes-de-cours-professeurs-par-journee-d-enseignement)
+- [Journée type](#journée-type)
+- [Pour la première journée](#pour-la-première-journée)
+- [Les notes de cours professeurs par journée d'enseignement](#les-notes-de-cours-professeurs-par-journée-d-enseignement)
      - [M01.D01-Data Visualisation](#data-visualisation)
      - [M02.D01-Introduction to SQL and cloud computing](#introduction-to-sql-and-cloud-computing)
      - [M02.D02-Advanced SQL](#advanced-sql)
@@ -171,7 +171,7 @@ C'est la plateforme sur laquelle tu enseigneras le SQL. Pour ce faire tu as ét�
 3. Tu devrais voir le projet _introduction-SQL_ en haut
 4. Ouvrir la console et tape `gcloud sql connect introductionsql --user=root` avec le password : **jedha4ever**
 
-# Déroulement d'une journée type
+# Journée type
 
 1. 9:55 : Dire bonjour sur Slack
 2. 10:00 : Lancer le ZOOM avec la commande `/zoom meeting NomDeSession_M0x_D0x_NomDeLaJournée` dans le channel Slack
