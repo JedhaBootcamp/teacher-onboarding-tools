@@ -30,7 +30,7 @@
      - [M04.D02-Machine Learning Classifications](#machine-learning-classifications)
      - [M05.D01-Project](#project)
 
-# Onboarding pour professeur Essentials
+# Onboarding des professeurs
 
 Ce repository contient toutes les informations concernant la session que tu vas encadrer.
 
@@ -173,6 +173,15 @@ Les solutions devront être déposées dans le Drive dans le dossier **### Solut
 Notre messagerie instantanée sur laquelle tu partageras tout avec les élèves (lien zoom, synthèse des cours, jokes...).
 
 Tu devrais avoir accès au channel de la session sur laquelle tu enseigne `#ds-{campus}-{session_number}`.
+
+# Facturation
+
+Pour la facturation, il faudra adresser ta facture à cette <a href="mailto:finance@jedha.co">adresse</a>.
+Et je t'invite à suivre le document suivant : <a href="https://drive.google.com/file/d/1dzTEechFWVBN_UvA0IE3Vsl0InlVXxJI/view?usp=sharing">règlement des fournisseurs</a>
+
+Les points important, une session est égal à une facture, et de préciser le nombre d'heure d'enseigner.
+
+Le règlement s'effectue au bout de **30 jours fin de mois**.
 
 # Journée type
 
