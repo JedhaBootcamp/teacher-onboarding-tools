@@ -114,7 +114,7 @@ Comme indiqué dans l'architecture ci-dessus, le dossier le plus important est c
 
 Le repo contenant les supports de cours, ainsi que les solutions des exercices. 👉 <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM">Essentials</a> 👈 
 
-👉 <a href="https://github.com/JedhaBootcamp/essentials-teacher-guide">Ta CheatSheet Essentials</a> 👈 
+👉 <a href="https://jedhabootcamp.github.io/essentials-teacher-guide/">Ta CheatSheet Essentials</a> 👈 
 
 2. <a href="https://github.com/JedhaBootcamp/FULL_STACK_12_WEEK_PROGRAM">Fullstack Full Time</a>
 3. <a href="https://github.com/JedhaBootcamp/FULL_STACK_24_WEEK_PROGRAM">Fullstack Part Time</a>
