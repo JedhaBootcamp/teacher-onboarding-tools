@@ -15,20 +15,10 @@
          - [Workspace](#workspace)
      - [Google Drive](#google-drive)
      - [Slack](#slack)
+- [Facturation](#facturation)
 - [Journée type](#journée-type)
-- [Plus d'outils](#plus-d-outils)
-     - [Tableau](#tableau)
-     - [Google Cloud Platform](#google-cloud-platform) 
-- [Pour la première journée](#pour-la-première-journée)
-- [Les notes de cours professeurs par journée d'enseignement](#les-notes-de-cours-professeurs-par-journée-d-enseignement)
-     - [M01.D01-Data Visualisation](#data-visualisation)
-     - [M02.D01-Introduction to SQL and cloud computing](#introduction-to-sql-and-cloud-computing)
-     - [M02.D02-Advanced SQL](#advanced-sql)
-     - [M03.D01-Introduction to python and statistics](#introduction-to-python-and-statistics)
-     - [M03.D02-AB Testing and web analytics](#ab-testing-and-web-analytics)
-     - [M04.D01-Machine Learning Regressions](#machine-learning-regressions)
-     - [M04.D02-Machine Learning Classifications](#machine-learning-classifications)
-     - [M05.D01-Project](#project)
+- [Ressources](#ressources)
+
 
 # Onboarding des professeurs
 
@@ -120,7 +110,12 @@ Comme indiqué dans l'architecture ci-dessus, le dossier le plus important est c
 
 ### Repo en fonction de la formation enseignée
 
-1. <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM">Essentials</a>
+1. Essentials
+
+Le repo contenant les supports de cours, ainsi que les solutions des exercices. 👉 <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM">Essentials</a> 👈 
+
+👉 <a href="https://github.com/JedhaBootcamp/essentials-teacher-guide">Ta CheatSheet Essentials</a> 👈 
+
 2. <a href="https://github.com/JedhaBootcamp/FULL_STACK_12_WEEK_PROGRAM">Fullstack Full Time</a>
 3. <a href="https://github.com/JedhaBootcamp/FULL_STACK_24_WEEK_PROGRAM">Fullstack Part Time</a>
 4. <a href="https://github.com/JedhaBootcamp/LEAD_PROGRAM">Lead</a>
@@ -195,3 +190,10 @@ Le règlement s'effectue au bout de **30 jours fin de mois**.
 8. 13:30 : Reprise des cours / début des exercices (création des breakout rooms).
 9. 18:00 : Envoie de la synthèse du jour.
 10. 18:30 : Dépôt des solutions dans le Google Drive.
+
+# Ressources
+
+Tu pourras retrouver plusieurs documents importants :
+
+1. Le <a href="https://drive.google.com/file/d/1U_8sGT5ZJc-ZOG51OEkZn11VN7sdpkZF/view?usp=sharing">WelcomeKit</a>
+2. <a href="https://app.hubspot.com/meetings/richard392">Calendrier</a> pour prendre rendez-vous si tu as des questions sur les outils que tu vas utiliser.
