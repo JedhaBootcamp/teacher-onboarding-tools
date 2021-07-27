@@ -69,24 +69,24 @@ Tu auras accès à une régie afin d'avoir une qualité d'image et de son de tr�
 
 ## Présentation du matériel
 
-![Présentation du matériel](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/all_stuff.HEIC)
+![Présentation du matériel](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/all_stuff.jpg)
 
 ## Installation
 
-![Branchement caméra](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/camera.HEIC)
+![Branchement caméra](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/camera.jpg)
 
 Comme tu peux le voir, la caméra est branché en secteur de façon à ce que la batterie ne soit pas un facteur d'inquiétude.
 
-![Branchement microphone émetteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_2.HEIC)
+![Branchement microphone émetteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_2.jpg)
 
 Pour allumer l'émetteur, tu peux rester appuyer quelques secondes sur le bouton : **Ø**.
 Ensuite accrocher le micro au niveau à hauteur du coeur avec l'attache prévue.
 
-![Branchement microphone récepteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_1.HEIC)
+![Branchement microphone récepteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_1.jpg)
 
 Idem pour l'allumer, tu peux appuyer quelques secondes sur le bouton du haut avec le logo : **Ø**.
 
-![Branchements sur Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_plugged.HEIC)
+![Branchements sur Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_plugged.jpg)
 
 Sur la régie, respectes bien les branchements :
 
@@ -94,7 +94,7 @@ Sur la régie, respectes bien les branchements :
 - Le microphone récepteur, branché sur le port micro n°1.
 - L'alimentation branché sur l'alimentation. (La régie s'allume directement lorsque celle-ci est branchée)
 
-![Touches Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_touch.HEIC)
+![Touches Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_touch.jpg)
 
 Voici ce à quoi doit ressembler la régie une fois totalement prête à l'emploi.
 
