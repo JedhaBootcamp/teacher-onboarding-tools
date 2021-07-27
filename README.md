@@ -5,6 +5,10 @@
      - [Lancement du ZOOM](#lancement-du-zoom)
      - [Record](#record)
      - [Création de breakout rooms](#création-de-breakout-rooms)
+- [Setup pour cours](#setup-pour-cours)
+     - [Présentation du matériel](#présentation-du-matériel)
+     - [Installation](#installation)
+     - [Mise en place sur ZOOM](#mise-en-place-sur-zoom)
 - [Icebreaking](#icebreaking)
 - [Explications des outils principaux du bootcamp](#explications-des-outils-du-bootcamp)
      - [Feuille de présence](#feuille-de-présence)
@@ -58,6 +62,49 @@ Pour la partie exercice, il est important de créer des salles de travail. C'est
 3. Permet d'avancer plus vite sur les exercices pour les élèves.
 
 ![Zoom Breakout Rooms](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/zoom_breakout.gif)
+
+# Setup pour cours
+
+Tu auras accès à une régie afin d'avoir une qualité d'image et de son de très bonne qualité. En effet, il est important de bien prendre en main ce setup pour que l'expérience présentielle soit la même qu'à distance.
+
+## Présentation du matériel
+
+![Présentation du matériel](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/all_stuff.HEIC)
+
+## Installation
+
+![Branchement caméra](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/camera.HEIC)
+
+Comme tu peux le voir, la caméra est branché en secteur de façon à ce que la batterie ne soit pas un facteur d'inquiétude.
+
+![Branchement microphone émetteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_2.HEIC)
+
+Pour allumer l'émetteur, tu peux rester appuyer quelques secondes sur le bouton : **Ø**.
+Ensuite accrocher le micro au niveau à hauteur du coeur avec l'attache prévue.
+
+![Branchement microphone récepteur](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/mic_1.HEIC)
+
+Idem pour l'allumer, tu peux appuyer quelques secondes sur le bouton du haut avec le logo : **Ø**.
+
+![Branchements sur Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_plugged.HEIC)
+
+Sur la régie, respectes bien les branchements :
+
+- L'HDMI de la caméra vers le port HMDI n°1 de la régie.
+- Le microphone récepteur, branché sur le port micro n°1.
+- L'alimentation branché sur l'alimentation. (La régie s'allume directement lorsque celle-ci est branchée)
+
+![Touches Atem](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/atem_touch.HEIC)
+
+Voici ce à quoi doit ressembler la régie une fois totalement prête à l'emploi.
+
+## Mise en place sur ZOOM
+
+Voici un GIF pour paramétrer la régie avec ZOOM :
+
+![Atem x ZOOM](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/blackmagic_zoom.gif)
+
+Ne t'en fais pas il y aura un membre de l'équipe pédagogique qui sera présent pour t'expliquer et bien mettre en place le setup.
 
 # Icebreaking
 
