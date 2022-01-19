@@ -91,14 +91,13 @@ Voici ce à quoi doit ressembler la régie une fois totalement prête à l'emplo
 
 Voici un GIF pour paramétrer la régie avec ZOOM :
 
-![Atem x ZOOM](https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/blackmagic_zoom.gif)
+<img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/blackmagic_zoom.gif"/>
 
 Ne t'en fais pas il y aura un membre de l'équipe pédagogique qui sera présent pour t'expliquer et bien mettre en place le setup.
 
 # Icebreaking
 
 **SEULEMENT POUR LES PROFESSEURS QUI FONT LE PREMIER JOUR DE LA SESSION**
-
 
 Le principe est simple, nous allons faire un jeu en introduction afin de "briser la glace" (**pas de panique quelqu'un de l'équipe Jedha sera présent pour l'animer**). Le jeu est 2 vérités, et 1 mensonge. Pour ce faire voici un template de message, à copier-coller sur Discord, qui permettra aux étudiants de voter sur Discord :
 
@@ -135,7 +134,7 @@ Dans un premier temps rendez-vous sur <a href="https://edusign.app/">EduSign</a>
 
 **👉   ATTENTION  👈**
 
-C'est toi qui est responsable de ces feuilles de présence. N'oublie surtout pas de les envoyer, les signer, et contrôler que les élèves aient bien signés celle-ci.
+C'est toi qui est responsable de ces feuilles de présence. N'oublie surtout pas de **les envoyer, les signer, et contrôler** que les élèves aient bien signés celle-ci.
 
 Si tu remarques une absence d'un élève, envoie un message sur Discord à Hugo.
 
@@ -178,7 +177,7 @@ Voici la procédure pour avoir ton mot de passe si tu ne t'es jamais connecté �
 1. Aller sur le site <a href="https://app.jedha.co/">JULIE</a>
 2. Clique sur _Don't remember your password?_
 3. Suivre la procédure de réinitialisation reçue par mail
-4. Se connecter avec le mot de passe crée
+4. Se connecter avec le mot de passe créé
 
 Une fois connecté sur <a href="https://app.jedha.co/">JULIE</a>, tu peux retrouver les cours via ce chemin _Courses > Tech Dregrees > {{CURSUS}}_. Tu remarqueras que l'architecture qu'il y a présente dans la section <ins>Github</ins> est la même dans JULIE sans le dossier _03-Instructors_
 
@@ -244,4 +243,4 @@ Le règlement s'effectue au bout de **30 jours fin de mois**.
 Tu pourras retrouver plusieurs documents importants :
 
 1. Le <a href="https://drive.google.com/file/d/1U_8sGT5ZJc-ZOG51OEkZn11VN7sdpkZF/view?usp=sharing">WelcomeKit</a>
-2. <a href="https://app.hubspot.com/meetings/richard392">Calendrier</a> pour prendre rendez-vous si tu as des questions sur les outils que tu vas utiliser.
+2. <a href="https://app.hubspot.com/meetings/richard392">Calendrier</a> pour prendre rendez-vous si tu as des questions, logistique ou pédadogique
