@@ -243,6 +243,7 @@ Le règlement s'effectue au bout de **30 jours fin de mois**.
 Tu pourras retrouver plusieurs documents importants :
 
 1. Le <a href="https://drive.google.com/file/d/1U_8sGT5ZJc-ZOG51OEkZn11VN7sdpkZF/view?usp=sharing">WelcomeKit</a>
+<<<<<<< HEAD
 2. <a href="https://app.hubspot.com/meetings/richard392">Calendrier</a> pour prendre rendez-vous si tu as des questions, logistique ou pédadogique
 
 ## Brief professeur d'après call
@@ -301,4 +302,5 @@ Pour ce qui est des outils : 🛠
      Enfin de link tree te permettra d'avoir les liens vers les différents outils afin de les envoyer aux étudiants pour qu'ils puissent installer ces outils en amont.
 
 ## Les modules
+
 
