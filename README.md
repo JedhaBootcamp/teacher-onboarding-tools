@@ -234,7 +234,7 @@ Le règlement s'effectue au bout de **30 jours fin de mois**.
 7. 12:30 : Pause du midi.
 8. 13:30 : Reprise des cours
 9. 13:32 : Envoyer le lien Edusign - après-midi
-10. 13:35 : Début des exercices (création des breakouts rooms).
+10. 13:35 : Début des exercices (création des breakouts rooms, mise en groupes étudiants par 2-3).
 11. 18:00 : Envoie de la synthèse du jour.
 12. 18:30 : Dépôt des solutions dans le Google Drive.
 
@@ -244,3 +244,61 @@ Tu pourras retrouver plusieurs documents importants :
 
 1. Le <a href="https://drive.google.com/file/d/1U_8sGT5ZJc-ZOG51OEkZn11VN7sdpkZF/view?usp=sharing">WelcomeKit</a>
 2. <a href="https://app.hubspot.com/meetings/richard392">Calendrier</a> pour prendre rendez-vous si tu as des questions, logistique ou pédadogique
+
+## Brief professeur d'après call
+
+Ce Brief concerne le récapitulatif de tes outils que tu utiliseras durant la formation.
+
+Pour ce qui est des outils : 🛠
+
+1. Pour Git Hub : 💾 
+
+     Ceci sera ton interface ou tu retrouveras les corrections d'exercices (dans instructors) et enfin les notebooks (dans  lectures ) . Tu recevras un lien d'accès par mail à ton repository. Tu n'auras plus qu'à consulter le module pour lequel tu as signé ton contrat.
+
+     <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/Git+hub+(+repo).png"/>
+
+
+2. Pour JULIE : 📖
+
+     Tu as normalement bien accès au repository lié à ton niveau de session ( Fullstack / Lead / Essentials). Pour y accéder tu n'auras qu'à cliquer sur "courses" puis "tech degrees" dans la barre de recherche.
+     Tu pourras retrouver dessus les cours (T) , les exercices (Pièce de puzzle),les projets ( ampoule) et enfin les quizz ( cartes) à effectuer en fin de module avec les étudiants . 
+     Tu as également accès aux ressources où tu pourras télécharger les notebooks et au workspace ou tu pourras ouvrir les notebooks dessus et coder depuis l'environnement. Pour celà tu peux scroller la page et tu retrouveras les ressources en bas de la page à droite.
+     Julie possède également une autre feature que l'on appelle le "workspace", cettte fature permet de créer un environnement en data science (en outre , il possible de drag and drop les ressources dessus et de coder directement sur la ressource).
+     Tu peux enfin retrouver les replays vidéos en scrollant toute la journée de cours et en cliquant sur continuer. 
+
+     <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/GIF+REPLAY.gif"/>
+
+
+3. Pour Zoom : 🎥
+
+     Tu as normalement reçu tes accès au zoom de JEDHA via l'adresse email que tu as donnée , tu auras la licence 1 jours avant ton cours . ( la licence permet d'avoir accès en illimité aux salons vidéos ).
+
+
+4. Pour Edusign : ⏰
+
+     Les feuilles de présence de ta session ont été crée et tu as du recevoir tes accès à la plateforme via mail également. En ce qui concerne le process, il faudra en envoyer 2 par jour ( une le matin ,une l'après-midi) pour les journées de cours . Pour ce qui est des cours du soir une seule feuille sera à envoyer.
+     Afin de l'envoyer, tu n'auras qu'à cocher tous les étudiants et cliquer sur le bouton "envoyer la feuille de présence" et uploader le lien de présence dans le salon discord de ta session.
+
+     <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/Lien+edusign.png"/>
+
+
+5. Pour Discord : Le <a href="https://discord.gg/WxQ8F6peTg">Discord Jedha </a> 🖱
+
+     Dès que tu arrives sur le salon discord de Jedha , la première chose à faire est de se présenter sur le channel "Presentation"  Sur discord tu pourras également converser avec la communauté sur les channels "général" " code-help"...
+     Tu pourras aussi leur envoyer les feuilles de présence ainsi que les liens zoom sur les channels de session.. 💻
+
+     <img src="https://essentials-teacher-onboarding.s3.eu-west-3.amazonaws.com/Discord+message+%C3%A9pingl%C3%A9.png"/>
+
+
+6. Pour le Drive : 🤖
+
+     Tu pourras y uploader les solutions d'exercices ! Concernant le lien du drive tu le retrouveras sur channel discord de ta session , il se trouvera dans les messages épinglés ! ( voir photo section discord , pour y accéder) 
+
+
+7. Les cours : 📚
+
+     Dernier point de ce chapitre sur les outils. Pour ce qui est de la préparation des cours, je t'invite à regarder un replay de cours en t'appuyant sur le gif ci-dessus ( part JULIE ), cela te permettra de découvrir notre axe d'enà consulter le point qui suit sur les différents modules. Il permet d'expliquer les différents outils à utiliser ainsi que l'axe à adopter.
+     Enfin de link tree te permettra d'avoir les liens vers les différents outils afin de les envoyer aux étudiants pour qu'ils puissent installer ces outils en amont.
+
+## Les modules
+
